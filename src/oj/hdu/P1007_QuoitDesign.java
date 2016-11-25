@@ -8,7 +8,7 @@ public class P1007_QuoitDesign {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		while (scanner.hasNext()) {
-//			int toys = scanner.nextInt();
+			int toys = scanner.nextInt();
 			
 		}
 		
